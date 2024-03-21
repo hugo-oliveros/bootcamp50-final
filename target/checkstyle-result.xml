@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/exception/ServerException.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/expose/web/PersonalController.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/expose/web/EmpresarialController.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/expose/web/CtaPrincipalController.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/expose/web/FuncionesController.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/expose/web/CtaDebitoController.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/CtaDebitoDao.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/repository/CtaDebitoRepository.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/repository/CtaPrincipalRepository.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/repository/PersonalRepository.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/repository/EmpresarialRepository.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/PersonalDao.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/EmpresarialDao.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/CtaPrincipalDao.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/impl/EmpresarialDaoImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/impl/CtaDebitoDaoImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/impl/CtaPrincipalDaoImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dao/impl/PersonalDaoImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/util/MapperUtils.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/util/DateUtils.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/EmpresarialDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/AppProcesoLogDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/PersonalDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/CtaDebitoDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/CtaPrincipalDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/SaldoDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/dto/ParametroDto.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/CtaDebidoService.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/CtaPrinicipalService.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/EmpresarialService.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/FuncionesService.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/BancoService.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/PersonalService.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/impl/EmpresarialServiceImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/impl/CtaDebitoImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/impl/BancoServiceImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/impl/CtaPrincipalImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/impl/PersonalServiceImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/business/impl/FuncionesServiceImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/domain/BaseDomain.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Empresarial.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Persona.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Personal.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Pasivo.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/NoObjectIdSerializer.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Empresa.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/CtaPrincipal.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/TarjetaCredito.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/CtaDebido.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Movimiento.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/model/entity/Activo.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/package-info.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/Application.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/config/AuditorAwareImpl.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/config/LoggingAspect.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/config/WebConfig.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/config/interceptor/RequestInterceptor.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/commons/AspectEnum.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/java/com/pe/nttdata/commons/ProductoEnum.java">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/resources/log4j.properties">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/resources/application.properties">
+</file>
+<file name="/home/holiveros/IdeaProjects/bootCamp/bootcamp50-s3/src/main/resources/messages.properties">
+</file>
+</checkstyle>
