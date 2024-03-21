@@ -224,7 +224,6 @@ public class BootCoinWalletBusinessImpl {
     return result;
   }
 
-
   private void triggerCurrencyWallet(CurrencyWalletDto currencyWalletDto){
     log.info("\u001B[36mOperation Yanki Param {}\u001B[0m ", currencyWalletDto.getCurrencyWallet());
     this.webClient.post()
